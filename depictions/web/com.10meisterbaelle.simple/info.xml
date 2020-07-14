@@ -1,0 +1,22 @@
+<package>
+	<id>com.10meisterbaelle.simple</id>
+	<name>Simple</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.anemonetheming.anemone</package>
+	</dependencies>
+	<shortDescription>A simple theme created in Paint.</shortDescription>
+	<descriptionlist>
+		<description>This is a simple theme that has only been created in Paint</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+	<links></links>
+</package>
