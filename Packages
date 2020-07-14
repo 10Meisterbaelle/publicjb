@@ -1,0 +1,19 @@
+Package: com.10meisterbaelle.simple
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Themes
+Maintainer: Unknown <idk@example.com>
+Depends: com.anemonetheming.anemone
+Filename: ./debians/com.10meisterbaelle.simple_1.0.0_iphoneos-arm.deb
+Size: 546604
+MD5sum: 592af5a5803c10e11c169444b804896b
+SHA1: 4b0bf9557b873327b1f082e1e88df9a16256d6cc
+SHA256: ecbe4a4077d269a7592bf5c92b8980633fa1d642d42a580770288977aceabd8b
+SHA512: 69a87c05fd5e98c65e05cc892fa5f732aa58c49b09b22ac449ea862d48b8bb951b6fa51ace32906c1f501966a30db6005830f70838fe5228eb8f0d4ac36820d0
+Homepage: https://neumaif02.github.io/jailbreak
+Description: A simple theme created in Paint.
+Name: Simple
+Depiction: https://10meisterbaelle.gitlab.io/jailbreak/depictions/web/?p=com.10meisterbaelle.simple
+SileoDepiction: https://10meisterbaelle.gitlab.io/jailbreak/depictions/native/com.10meisterbaelle.simple/depiction.json
+Author: Felix <neumaif02@gmail.com>
+
