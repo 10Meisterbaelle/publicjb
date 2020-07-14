@@ -1,10 +1,10 @@
 Architectures: iphoneos-arm
-Codename: CODENAME_HERE
+Codename: 10Meisterbaelles Public Repo
 Components: main
 Date: Tue, 14 Jul 2020 17:42:34 +0000
-Description: DESCRIPTION_HERE
-Label: LABEL_HERE
-Origin: ORIGIN_HERE
+Description: 10Meisterbaelles Public Repo
+Label: 10Meisterbaelles Public Repo
+Origin: 10Meisterbaelles Public Repo
 Suite: stable
 Version: 1.0
 MD5Sum:
